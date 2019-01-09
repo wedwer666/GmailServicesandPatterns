@@ -7,5 +7,6 @@ Create an application that:
 4) At least 2 patterns should be used
 
 Useful links:
-https://www.codejava.net/java-ee/javamail/download-attachments-in-e-mail-messages-using-javamail
-https://stackoverflow.com/questions/9800805/receiving-attachment-from-gmail-using-imap
+1) https://www.codejava.net/java-ee/javamail/download-attachments-in-e-mail-messages-using-javamail
+2) https://stackoverflow.com/questions/9800805/receiving-attachment-from-gmail-using-imap
+3) https://stackoverflow.com/questions/11240368/how-to-read-text-inside-body-of-mail-using-javax-mail
